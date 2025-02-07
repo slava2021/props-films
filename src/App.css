@@ -4,4 +4,13 @@
   padding: 2rem;
   text-align: center;
 }
+.card-body-stars{
+  display: flex;
+  align-items: flex-start;
+  list-style: none;
+  padding: 0;
+}
+.card-body-stars:hover{
+  cursor: pointer;
+}
 
